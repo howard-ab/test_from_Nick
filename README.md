@@ -1,18 +1,17 @@
-# test_from_Nick
-
 # Инструкция по запуску сервера DummyMessenger
+
 
 ## Установка зависимостей:
 необходимые библиотеки:
 ### pip install aiohttp
 ### pip install asyncpg
 
-## Настройка базы:
-Создайте базу данных с именем `mydatabase`, мои пароль и username.
 
-### CREATE USER howard WITH PASSWORD '01234'
-### CREATE DATABASE mydatabase
-### GRANT ALL PRIVILEGES ON DATABASE mydatabase TO howard
+## Настройка базы:
+Создаем базу данных с именем `mydatabase`, мои пароль и username.
+### create user howard with password '01234'
+### create database mydatabase
+### grant all privileges on database mydatabase to howard
 
 
 ## Запуск сервера:
