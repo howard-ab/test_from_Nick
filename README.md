@@ -32,4 +32,3 @@ This repo was created for the sol. of interview tasks from Nick Levashov.
 ### Average: 0.0016701408863067627 seconds
 ### Per/sec: 598.7518826698105 requests/second
 
-![Пример вывода:](https://drive.google.com/file/d/1ND7KnTN8Hk2FKzl8yrB0_LQxCkEeUqyV/view?usp=sharing)
