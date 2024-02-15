@@ -27,8 +27,9 @@ This repo was created for the sol. of interview tasks from Nick Levashov.
 
 
 ## После выполнения этих команд, в терминале через некоторое время будет отображен результат работы.
-## Пример выходных данных:
+## Пример вывода:
 ### Total: 8.350704431533813 seconds
 ### Average: 0.0016701408863067627 seconds
 ### Per/sec: 598.7518826698105 requests/second
 
+![Пример вывода:](https://drive.google.com/file/d/1ND7KnTN8Hk2FKzl8yrB0_LQxCkEeUqyV/view?usp=sharing)
