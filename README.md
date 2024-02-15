@@ -1,7 +1,6 @@
 # test_from_Nick
-This repo was created for the sol. of interview tasks from Nick Levashov.
 
-# Инструкция по запуску и тестированию сервера DummyMessenger
+# Инструкция по запуску сервера DummyMessenger
 
 ## Установка зависимостей:
 необходимые библиотеки:
@@ -9,17 +8,16 @@ This repo was created for the sol. of interview tasks from Nick Levashov.
 ### pip install asyncpg
 
 ## Настройка базы:
-Создайте базу данных с именем `mydatabase`.
+Создайте базу данных с именем `mydatabase`, мои пароль и username.
 
 ### CREATE USER howard WITH PASSWORD '01234'
 
 ### CREATE DATABASE mydatabase
 
 ### GRANT ALL PRIVILEGES ON DATABASE mydatabase TO howard
-код,которого я запускал, были эти пароль и username
+
 
 ## Запуск сервера:
-Запустите две реплики сервера:
 ### python Server.py
 
 ## Запуск клиента для тестирования:
